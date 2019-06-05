@@ -1,6 +1,6 @@
 import collections
 
-#シーケンスとしてのトランプ組
+#シーケンスとしてのトランプ組!
 Card = collections.namedtuple('Card',['rank','suit'])
 
 class FrenchDeck:
